@@ -20,10 +20,37 @@ http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 http://50.7.161.82:8277/streams/d/Naura/playlist.m3u8
 #EXTINF:-1 tvg-id="111" tvg-name="Go Shop 111" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png" group-title="ASTRO",Go Shop (CH111)
 https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
+#EXTINF:-1 tvg-id="112" tvg-name="Astro Rania HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="ASTRO",Astro Rania HD (CH112)#
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065897
+#EXTINF:-1 tvg-id="113" tvg-name="Astro Aura HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="ASTRO",Astro Aura HD (CH113)#
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71145
+#EXTINF:-1 tvg-id="114" tvg-name="Al-Hijrah" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png" group-title="ASTRO",Al-Hijrah (CH114)
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+#EXTINF:-1 tvg-id="116" tvg-name="Colors Hindi HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png" group-title="ASTRO",Colors Hindi HD (CH116)#
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745742
+#EXTINF:-1 tvg-id="118" tvg-name="Go Shop 118" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png" group-title="ASTRO",Go Shop (CH118)
+https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
+#EXTINF:-1 tvg-id="120" tvg-name="Go Shop GAAYA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/294_144.png" group-title="ASTRO",Go Shop GAAYA (CH120)
+https://agsplayback01.astro.com.my/CH3/master_GOSHOP3_04.m3u8
+#EXTINF:-1 tvg-id="122" tvg-name="TVS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="ASTRO",TVS (CH122)
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+#EXTINF:-1 tvg-id="123" tvg-name="Awesome TV" tvg-logo="https://i.imgur.com/zN35gsY.png" group-title="ASTRO",awesome TV (CH123)
+http://50.7.17.176:61980/myplay/c_58014/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+#EXTINF:-1 tvg-id="125" tvg-name="Astro Prima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="ASTRO",Astro Prima (CH125)
+http://50.7.161.82:8277/streams/d/prima_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="Astro Oasis" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="ASTRO",Astro Oasis (CH126)
+http://50.7.161.82:8277/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 tvg-id="146" tvg-name="TV Okey" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" group-title="ASTRO",TV Okey (CH146)
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:-1 tvg-id="147" tvg-name="NTV7 (DIDIKTVKPM)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="ASTRO",NTV7 DIDIKTV (CH147)#
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-#EXTINF:-1 tvg-id="122" tvg-name="TVS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="ASTRO",TVS (CH122)#
-https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+#EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png" group-title="ASTRO",8TV (CH148)
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TV9_2021.png/200px-TV9_2021.png" group-title="ASTRO",TV9 (CH149)
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+#EXTINF:-1 tvg-id="202" tvg-name="Astro Vinmeen HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png" group-title="ASTRO",Astro Vinmeen (CH202)
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4995
+
 #EXTINF:-1 tvg-id="201" tvg-name="Astro Vaanavil HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png" group-title="ASTRO",Astro Vaanavil HD (CH201)
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 #EXTINF:-1 tvg-id="304" tvg-name="Astro Xiao Tai Yang HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/387_144.png" group-title="ASTRO",Astro Xiao Tai Yang HD (CH304)
