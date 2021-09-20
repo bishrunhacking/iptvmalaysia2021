@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="000" tvg-name="INTRO"  group-title="ASTRO",--CREATE BY BISHRUN HACKING--
 #EXTINF:-1 tvg-id="101" tvg-name="TV1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="ASTRO",TV1 HD (CH101)
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1 tvg-id="102" tvg-name="TV2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="ASTRO",TV2 HD (CH102)
