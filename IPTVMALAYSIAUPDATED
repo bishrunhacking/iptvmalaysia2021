@@ -5,9 +5,9 @@ http://50.7.17.176:61980/myplay/c_58001/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&ex
 #EXTINF:-1 tvg-id="102" tvg-name="TV2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="ASTRO",TV2 HD (CH102)
 http://50.7.17.176:61980/myplay/c_58002/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="ASTRO",TV3 (CH103)
-http://50.7.17.176:61980/myplay/c_58040/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-#EXTINF:-1 tvg-id="104" tvg-name="Astro Ria HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a" group-title="ASTRO",Astro Ria HD (CH104)
 http://50.7.17.176:61980/myplay/c_58003/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+#EXTINF:-1 tvg-id="104" tvg-name="Astro Ria HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a" group-title="ASTRO",Astro Ria HD (CH104)
+http://50.7.17.176:61980/myplay/c_58040/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 #EXTINF:-1 tvg-id="105" tvg-name="Astro Prima HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="ASTRO",Astro Prima HD (CH105)
 http://50.7.161.82:8277/streams/d/prima_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="Astro Oasis HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="ASTRO",Astro Oasis HD (CH106)
@@ -48,19 +48,93 @@ http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TV9_2021.png/200px-TV9_2021.png" group-title="ASTRO",TV9 (CH149)
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-#EXTINF:-1 tvg-id="202" tvg-name="Astro Vinmeen HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png" group-title="ASTRO",Astro Vinmeen (CH202)
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4995
-
 #EXTINF:-1 tvg-id="201" tvg-name="Astro Vaanavil HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png" group-title="ASTRO",Astro Vaanavil HD (CH201)
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
+#EXTINF:-1 tvg-id="202" tvg-name="Astro Vinmeen HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png" group-title="ASTRO",Astro Vinmeen (CH202)#
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4995
+#EXTINF:-1 tvg-id="204" tvg-name="Makkal TV" tvg-logo="https://i.imgur.com/Sv4bLGX.png" group-title="ASTRO",Makkal TV (CH204)#
+http://14.199.164.20:4001/play/a0l1/index.m3u8
+#EXTINF:-1 tvg-id="211" tvg-name="SUN TV HD" tvg-logo="https://www.nicepng.com/png/detail/2-22701_sun-tv-sun-tv-logo-png.png" group-title="ASTRO",SUN TV HD (CH211)#
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745667
+#EXTINF:-1 tvg-id="213" tvg-name="Chutti TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/51_144.png" group-title="ASTRO",Chutti TV (CH213)##
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71030
+#EXTINF:-1 tvg-id="221" tvg-name="Star Vijay HD" tvg-logo="https://img2.pngio.com/stars-cartoon-png-download-512512-free-transparent-star-vijay-star-vijay-png-900_520.jpg" group-title="ASTRO",Star Vijay HD (CH221)##
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745665
+#EXTINF:-1 tvg-id="222" tvg-name="Colors Tamil HD" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160723588691kg.png" group-title="ASTRO",Colors tamil HD (CH222)##
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745666
+#EXTINF:-1 tvg-id="223" tvg-name="Zee Tamil HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="ASTRO",Zee Tamil HD (CH223)##
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71032
+#EXTINF:-1 tvg-id="251" tvg-name="BollyOne HD" tvg-logo="https://i.ibb.co/F0ftsHB/bollyone.png" group-title="ASTRO",BollyOne HD (CH251)
+http://50.7.161.82:8277/streams/d/bollyone_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="300" tvg-name="iQIYI HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="ASTRO",iQIYI HD (CH300)
+http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="304" tvg-name="Astro Xiao Tai Yang HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/387_144.png" group-title="ASTRO",Astro Xiao Tai Yang HD (CH304)
-http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-#EXTINF:-1 tvg-id="307" tvg-name="Astro Shuang Xing HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="ASTRO",Astro Shuang Xing HD (CH307)#
+http://50.7.161.82:8277/streams/d/xiaotaiyang_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="305" tvg-name="TVB Classic HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png" group-title="ASTRO",TVB Classic HD (CH305)
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1 tvg-id="306" tvg-name="Astro AEC HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="ASTRO",Astro AEC HD (CH306)
+http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="307" tvg-name="Astro Shuang Xing HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="ASTRO",Astro Shuang Xing HD (CH307)
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1 tvg-id="404" tvg-name="BOO HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="ASTRO",BOO HD (CH304)
+#EXTINF:-1 tvg-id="308" tvg-name="Astro Quan Jia HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="ASTRO",Astro Quan Jia HD (CH308)
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1 tvg-id="309" tvg-name="Celestial Movies HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="ASTRO",Celestial Movies HD (CH309)
+http://210.210.155.35/session/5b228b10-d3ef-11ea-be11-a39dabd864dd/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1 tvg-id="310" tvg-name="TVB Jade HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="ASTRO",TVB Jade HD (CH310)
+http://198.16.106.61:8277/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1 tvg-id="311" tvg-name="Astro AOD HD 311" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png" group-title="ASTRO",Astro AOD HD (CH311)
+http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8 
+#EXTINF:-1 tvg-id="316" tvg-name="CTI Asia HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png" group-title="ASTRO",CTI Asia HD (CH316)##
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745678
+#EXTINF:-1 tvg-id="392" tvg-name="KBS World HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png" group-title="ASTRO",KBS World HD (CH392)
+https://live-vthcm.vieon.vn/htv_drm/live/kbs_world/TV_HD/kbs_world_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="393" tvg-name="ONE HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="ASTRO",ONE HD [EN SUB] (CH393)
+http://50.7.161.82:8277/streams/d/SetOne/playlist.m3u8
+#EXTINF:-1 tvg-id="394" tvg-name="Oh!K HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" group-title="ASTRO",Oh!K HD (CH394)
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+#EXTINF:-1 tvg-id="395" tvg-name="tvN HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="ASTRO",tvN HD (CH395) ##
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+#EXTINF:-1 tvg-id="398" tvg-name="NHK World HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/428_144.png" group-title="ASTRO",NHK World HD (CH398)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 tvg-id="401" tvg-name="HITS Movies HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="ASTRO",HITS Movies HD (CH401)#
+http://93.190.139.35:8278/streams/d/Hitsmovie/playlist.m3u8
+#EXTINF:-1 tvg-id="404" tvg-name="BOO HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="ASTRO",BOO HD [EN SUB] (CH404)
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 tvg-id="411" tvg-name="HBO HD" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="ASTRO",HBO HD (411)
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="411" tvg-name="HBO HD" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="ASTRO",HBO HD (411)#
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3
+#EXTINF:-1 tvg-id="412" tvg-name="CINEMAX HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="ASTRO",CINEMAX HD [ID SUB] (CH412)
+https://dl.dropboxusercontent.com/s/1nqhsz02w72ojjl/MAX.m3u8
+#EXTINF:-1 tvg-id="414" tvg-name="HBO Family" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="ASTRO",HBO Family [EN SUB] (CH414)
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
+#EXTINF:-1 tvg-id="415" tvg-name="HBO Hits" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="ASTRO",HBO Hits [EN SUB] (CH415)
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbohit.m3u8
+#EXTINF:-1 tvg-id="416" tvg-name="tvN Movies HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png" group-title="ASTRO",tvN Movies HD (CH416)##
+http://foctv.xyz:25510/Amir5641/YY5641/136
+#EXTINF:-1 tvg-id="414" tvg-name="HBO Family" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="ASTRO",HBO Family [EN SUB] (CH414)
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
+#EXTINF:-1 tvg-id="414" tvg-name="HBO Family" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="ASTRO",HBO Family [EN SUB] (CH414)
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
+
+#EXTINF:-1 tvg-id="414" tvg-name="HBO Family" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="ASTRO",HBO Family [EN SUB] (CH414)
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
+#EXTINF:-1 tvg-id="414" tvg-name="HBO Family" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="ASTRO",HBO Family [EN SUB] (CH414)
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
+#EXTINF:-1 tvg-id="414" tvg-name="HBO Family" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="ASTRO",HBO Family [EN SUB] (CH414)
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
+
+
+
+
+
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbohit.m3u8
+
+
+
+
+
+
+
+u8
 #EXTINF:-1 tvg-id="501" tvg-name="Astro Awani HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" group-title="ASTRO",Astro Awani HD (501)
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-id="502" tvg-name="Bernama" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png" group-title="ASTRO",Bernama (502)#
@@ -71,6 +145,10 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 #EXTINF:-1 tvg-id="801" tvg-name="Astro Arena" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" tvg-url="" group-title="ASTRO SPORTS",Astro Arena HD (801)
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="820" tvg-name="Eurosport HD" tvg-country="USA" tvg-language="EN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" tvg-url="" group-title="ASTRO SPORTS",Eurosport HD (820)
+http://198.16.106.61:8277/streams/d/Qiyi1511/playlist.m3u8
 #EXTINF:-1 tvg-id="821" tvg-name="WWE Network HD" tvg-country="USA" tvg-language="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51EVQDiJh1L.png" tvg-url="" group-title="ASTRO SPORTS",WWE Network HD (821)
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="000" tvg-name="Maah TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSmPGc7aQMeRHFI5T1VECspSQLy_4vPDfBEsrjg2w=s900-c-k-c0x00ffffff-no-rj" group-title="INTERNATIONAL",Maah TV (NONASTRO)
