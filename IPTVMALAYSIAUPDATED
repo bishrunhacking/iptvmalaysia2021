@@ -113,37 +113,97 @@ https://raw.githubusercontent.com/angahjee1994/tv/master/hbohit.m3u8
 http://foctv.xyz:25510/Amir5641/YY5641/136
 #EXTINF:-1 tvg-id="414" tvg-name="HBO Family" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="ASTRO",HBO Family [EN SUB] (CH414)
 https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
-#EXTINF:-1 tvg-id="414" tvg-name="HBO Family" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="ASTRO",HBO Family [EN SUB] (CH414)
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
-
-#EXTINF:-1 tvg-id="414" tvg-name="HBO Family" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="ASTRO",HBO Family [EN SUB] (CH414)
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
-#EXTINF:-1 tvg-id="414" tvg-name="HBO Family" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="ASTRO",HBO Family [EN SUB] (CH414)
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
-#EXTINF:-1 tvg-id="414" tvg-name="HBO Family" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="ASTRO",HBO Family [EN SUB] (CH414)
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
-
-
-
-
-
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbohit.m3u8
-
-
-
-
-
-
-
-u8
+#EXTINF:-1 tvg-id="417" tvg-name="FOX Movies HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/151_144.png" group-title="ASTRO",FOX Movies HD (CH417)#
+http://my.odtv.uk:80/live/1159189903/4938860969/74.m3u8
+#EXTINF:-1 tvg-id="418" tvg-name="FOX family Movies HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/170_144.png" group-title="ASTRO",FOX Family Movies HD (CH418)
+http://my.odtv.uk:80/live/1159189903/4938860969/75.m3u8
+#EXTINF:-1 tvg-id="419" tvg-name="Fox Action Movies HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/184_144.png" group-title="ASTRO",FOX Action Movies [MY SUB] (CH419)
+http://my.odtv.uk:80/live/1159189903/4938860969/76.m3u8
 #EXTINF:-1 tvg-id="501" tvg-name="Astro Awani HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" group-title="ASTRO",Astro Awani HD (501)
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-id="502" tvg-name="Bernama" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png" group-title="ASTRO",Bernama (502)#
-http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+http://my.odtv.uk:80/live/1159189903/4938860969/78.m3u8
+#EXTINF:-1 tvg-id="503" tvg-name="CGTN HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/426_144.png" group-title="ASTRO",CGTN HD (503)
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="511" tvg-name="CNN HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png" group-title="ASTRO",CNN HD (511)##
+http://my.odtv.uk:80/live/1159189903/4938860969/80.m3u8
+#EXTINF:-1 tvg-id="512" tvg-name="BBC World News HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/366_144.png" group-title="ASTRO",BBC World News HD (512)##
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
+#EXTINF:-1 tvg-id="513" tvg-name="Al Jazeera English FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/374_144.png" group-title="ASTRO",Al Jazeera English FHD (513)
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="514" tvg-name="Sky News HD " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/155_144.png" group-title="ASTRO",Sky News HD (514)
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+#EXTINF:-1 tvg-id="515" tvg-name="CNA FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/295_144.png" group-title="ASTRO",CNA FHD (515)#
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="517" tvg-name="Bloomberg TV HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/422_144.png" group-title="ASTRO",Bloomberg TV HD (517)
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-id="518" tvg-name="ABC Australia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png" group-title="ASTRO",ABC Australia (518)#
+https://c.mjh.nz/101002210221/
+#EXTINF:-1 tvg-id="550" tvg-name="Nat Geo Wild HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png" group-title="ASTRO",Nat Geo Wild (550)##
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/95
+#EXTINF:-1 tvg-id="551" tvg-name="National Geographic HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png" group-title="ASTRO",National Geographic HD [ENG DUB] (551)
+http://portal.geniptv.com:8080/tomasiptv_new/tBdcKMF3NfbSfva7prR7/19459
+#EXTINF:-1 tvg-id="551" tvg-name="National Geographic HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png" group-title="ASTRO",National Geographic HD [ITALIAN DUB] (551)
+http://185.247.117.212/clientline/play.php?chID=3293
+#EXTINF:-1 tvg-id="552" tvg-name="Discovery Channel HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="ASTRO",Discovery Channel HD [HINDI DUB] (552)
+http://babutv.aliflailabd.com:8989/discovery/index.m3u8
+#EXTINF:-1 tvg-id="554" tvg-name="BBC Earth" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png" group-title="ASTRO",BBC Earth (554)
+https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
+#EXTINF:-1 tvg-id="556" tvg-name="Animal Planet HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="ASTRO",Animal Planet HD [MY SUB] (556)
+http://50.7.161.82:8277/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 tvg-id="557" tvg-name="Discovery Science HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/375_144.png" group-title="ASTRO",Discovery Science (557)
+https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
 #EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="ASTRO",Astro Ceria HD (611)
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+http://50.7.17.176:61980/myplay/c_58024/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=165494238
+#EXTINF:-1 tvg-id="615" tvg-name="Cartoon Network FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png" group-title="ASTRO",Cartoon Network FHD (615)
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1543
+#EXTINF:-1 tvg-id="616" tvg-name="Nickelodeon HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" group-title="ASTRO",Nickelodeon HD (616)
+http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+#EXTINF:-1 tvg-id="617" tvg-name="Nickelodeon Junior FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" group-title="ASTRO",Nickelodeon Junior FHD (617)
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1546
+#EXTINF:-1 tvg-id="618" tvg-name="Baby TV HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/94_144.png" group-title="ASTRO",Baby TV HD (618)
+http://198.16.106.61:8278/streams/d/Babytv/playlist.m3u8
+#EXTINF:-1 tvg-id="619" tvg-name="Boomerang" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/430_144.png" group-title="ASTRO",Boomerang (619)
+http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="701" tvg-name="AXN FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="ASTRO",AXN FHD (701)
+https://feed.play.mv/live/10005200/MKj28KXjmn/master.m3u8
 #EXTINF:-1 tvg-id="702" tvg-name="Hello HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png" group-title="ASTRO",Hello HD (702)
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
+http://50.7.161.82:8277/streams/d/Hello/playlist.m3u8
+#EXTINF:-1 tvg-id="703" tvg-name="Lifetime" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" group-title="ASTRO",Lifetime (703)
+http://flowfhd.xyz:25461/Annabelle/12345/176411
+#EXTINF:-1 tvg-id="704" tvg-name="PRIMEtime" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png" group-title="ASTRO",PRIMEtime (704)
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8545
+#EXTINF:-1 tvg-id="705" tvg-name="KIX FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/157_144.png" group-title="ASTRO",KIX FHD (705)
+http://50.7.161.82:8277/streams/d/KiX/playlist.m3u8
+#EXTINF:-1 tvg-id="707" tvg-name="TLC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png" group-title="ASTRO",TLC (707)
+http://idvd.multitvsolution.com/idvo/tlceng_540p/index.m3u8
+#EXTINF:-1 tvg-id="708" tvg-name="Food Network HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png" group-title="ASTRO",Food Network HD [CHINESE SUB] (708)
+http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="710" tvg-name="Nat Geo People HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/199_144.png" group-title="ASTRO",Nat Geo People HD (710)##
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/94
+
+#EXTINF:-1 tvg-id="708" tvg-name="Food Network HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png" group-title="ASTRO",Food Network HD [CHINESE SUB] (708)
+http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="708" tvg-name="Food Network HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png" group-title="ASTRO",Food Network HD [CHINESE SUB] (708)
+http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="708" tvg-name="Food Network HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png" group-title="ASTRO",Food Network HD [CHINESE SUB] (708)
+http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="708" tvg-name="Food Network HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png" group-title="ASTRO",Food Network HD [CHINESE SUB] (708)
+http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="708" tvg-name="Food Network HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png" group-title="ASTRO",Food Network HD [CHINESE SUB] (708)
+http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="708" tvg-name="Food Network HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png" group-title="ASTRO",Food Network HD [CHINESE SUB] (708)
+http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="708" tvg-name="Food Network HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png" group-title="ASTRO",Food Network HD [CHINESE SUB] (708)
+http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="708" tvg-name="Food Network HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png" group-title="ASTRO",Food Network HD [CHINESE SUB] (708)
+http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="708" tvg-name="Food Network HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png" group-title="ASTRO",Food Network HD [CHINESE SUB] (708)
+http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="801" tvg-name="Astro Arena" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" tvg-url="" group-title="ASTRO SPORTS",Astro Arena HD (801)
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
@@ -154,6 +214,9 @@ http://198.16.106.61:8277/streams/d/Qiyi1511/playlist.m3u8
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="000" tvg-name="Maah TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSmPGc7aQMeRHFI5T1VECspSQLy_4vPDfBEsrjg2w=s900-c-k-c0x00ffffff-no-rj" group-title="INTERNATIONAL",Maah TV (NONASTRO)
 http://51.210.199.33/hls/stream.m3u8
+#EXTINF:-1 tvg-id="0502" tvg-name="Love Nature FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Unifi TV",Maah TV (UnifiTV502)
+http://portal.geniptv.com:8080/tomasiptv_new/tBdcKMF3NfbSfva7prR7/1108
+
 #EXTINF:-1 tvg-id="001" tvg-name="BES RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="MYTV",BES RTM (MYTV)
 https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 #EXTINF:-1 tvg-id="002" tvg-name="SUKAN RTM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player%20Logo%20-%20SUKAN%20RTM_NEW.jpg" group-title="MYTV",SUKAN RTM (MYTV)
