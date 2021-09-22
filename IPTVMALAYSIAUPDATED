@@ -169,7 +169,7 @@ http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/us-boomerang.stre
 #EXTINF:-1 tvg-id="701" tvg-name="AXN FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="ASTRO",AXN FHD (701)
 https://feed.play.mv/live/10005200/MKj28KXjmn/master.m3u8
 #EXTINF:-1 tvg-id="702" tvg-name="Hello HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png" group-title="ASTRO",Hello HD (702)
-http://50.7.161.82:8277/streams/d/Hello/playlist.m3u8
+http://50.7.161.82:8278/streams/d/hello_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="703" tvg-name="Lifetime" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" group-title="ASTRO",Lifetime (703)
 http://flowfhd.xyz:25461/Annabelle/12345/176411
 #EXTINF:-1 tvg-id="704" tvg-name="PRIMEtime" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png" group-title="ASTRO",PRIMEtime (704)
