@@ -21,11 +21,10 @@ http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TV9_2021.png/200px-TV9_2021.png" group-title="MYTV",TV9 (CH149)
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-#EXTINF:-1 tvg-id="001" tvg-name="BES RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="MYTV",BES RTM (MYTV)
+#EXTINF:-1 tvg-id="001" tvg-name="BES RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="MYTV",BES RTM (MYTV)##
 https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 #EXTINF:-1 tvg-id="002" tvg-name="SUKAN RTM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player%20Logo%20-%20SUKAN%20RTM_NEW.jpg" group-title="MYTV",SUKAN RTM (MYTV)
-https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
-
+http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 
 
 
