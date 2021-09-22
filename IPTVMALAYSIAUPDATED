@@ -300,6 +300,66 @@ http://50.7.161.82:8278/streams/d/astrocricket_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="000" tvg-name="DESC"  group-title="NO OPEN",-----RADIO-----
 www.goMYTVl.com
 
+#EXTINF:-1 tvg-id="852" tvg-name="Hits FM" tvg-country="MY" tvg-language="en" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" tvg-url="" group-title="RADIO",Hits FM (852)
+https://astro1.rastream.com/hitz
+#EXTINF:-1 tvg-id="853" tvg-name="MY FM" tvg-country="MY" tvg-language="chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png" tvg-url="" group-title="RADIO",MY FM (853)
+https://astro1.rastream.com/myfm
+#EXTINF:-1 tvg-id="854" tvg-name="LITE FM" tvg-country="MY" tvg-language="en" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png" tvg-url="" group-title="RADIO",LITE FM (854)
+http://ingest2.astro1.rastream.com/lite
+#EXTINF:-1 tvg-id="855" tvg-name="MIX FM" tvg-country="MY" tvg-language="en" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png" tvg-url="" group-title="RADIO",MIX FM (855)
+https://astro2.rastream.com/mix
+#EXTINF:-1 tvg-id="856" tvg-name="ERA FM" tvg-country="MY" tvg-language="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" tvg-url="" group-title="RADIO",ERA FM (856)
+https://astro2.rastream.com/era
+#EXTINF:-1 tvg-id="857" tvg-name="SINAR FM" tvg-country="MY" tvg-language="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" tvg-url="" group-title="RADIO",SINAR FM (857)
+https://astro2.rastream.com/sinar
+#EXTINF:-1 tvg-id="858" tvg-name="MELODY FM" tvg-country="MY" tvg-language="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png" tvg-url="" group-title="RADIO",MELODY FM (858)
+https://astro2.rastream.com/melody
+#EXTINF:-1 tvg-id="859" tvg-name="THR RAAGA FM" tvg-country="MY" tvg-language="HINDI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png" tvg-url="" group-title="RADIO",THR RAAGA FM (859)
+https://astro2.rastream.com/raaga
+#EXTINF:-1 tvg-id="860" tvg-name="CLASSIC ROCK FM" tvg-country="MY" tvg-language="en" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/20_144.png" tvg-url="" group-title="RADIO",CLASSIC ROCK FM (860)
+https://astro4.rastream.com/rock
+#EXTINF:-1 tvg-id="861" tvg-name="GOLD FM" tvg-country="MY" tvg-language="en" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/21_144.png" tvg-url="" group-title="RADIO",GOLD FM (861)
+https://astro4.rastream.com/gold
+#EXTINF:-1 tvg-id="862" tvg-name="OPUS FM" tvg-country="MY" tvg-language="en" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/16_144.png" tvg-url="" group-title="RADIO",OPUS FM (862)
+https://astro4.rastream.com/opus
+#EXTINF:-1 tvg-id="863" tvg-name="THR GEGAR FM" tvg-country="MY" tvg-language="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" tvg-url="" group-title="RADIO",THR GEGAR FM (863)
+https://astro3.rastream.com/gegar
+#EXTINF:-1 tvg-id="864" tvg-name="INDIA BEAT FM" tvg-country="MY" tvg-language="HINDI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/23_144.png" tvg-url="" group-title="RADIO",INDIA BEAT FM (864)
+https://astro4.rastream.com/india
+#EXTINF:-1 tvg-id="865" tvg-name="JAZZ FM" tvg-country="MY" tvg-language="MALAY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/24_144.png" tvg-url="" group-title="RADIO",JAZZ FM (865)
+https://astro4.rastream.com/jazz
+#EXTINF:-1 tvg-id="866" tvg-name="OSAI FM" tvg-country="MY" tvg-language="HINDI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/27_144.png" tvg-url="" group-title="RADIO",OSAI FM (866)
+https://astro4.rastream.com/osai
+#EXTINF:-1 tvg-id="867" tvg-name="BAYU FM" tvg-country="MY" tvg-language="MALAYSABH" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png" tvg-url="" group-title="RADIO",BAYU FM (867)
+http://ingest2.astro4.rastream.com/bayu
+#EXTINF:-1 tvg-id="868" tvg-name="KENYALANG FM" tvg-country="MY" tvg-language="MALAYSIASRWK" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/32_144.png" tvg-url="" group-title="RADIO",KENYALANG FM (868)
+http://ingest2.astro4.rastream.com/kenyalang
+#EXTINF:-1 tvg-id="869" tvg-name="NASIONAL FM" tvg-country="MY" tvg-language="MALAY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/25_144.png" tvg-url="" group-title="RADIO",NASIONAL FM (869)
+https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
+#EXTINF:-1 tvg-id="870" tvg-name="V FM" tvg-country="MY" tvg-language="MALAYSABH" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/29_144.png" tvg-url="" group-title="RADIO",V FM [SABAH] (870)
+https://sabahfmmobile.secureswiftcontent.com/rtm-ch049/rtm-ch049/chunklist.m3u8
+#EXTINF:-1 tvg-id="871" tvg-name="WAI FM" tvg-country="MY" tvg-language="MALAYSRWK" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/145_144.png" tvg-url="" group-title="RADIO",WAI FM [SARAWAK] (871)
+https://waifmibanmobile.secureswiftcontent.com/rtm-ch042/rtm-ch042/chunklist.m3u8
+#EXTINF:-1 tvg-id="872" tvg-name="TRAXX FM" tvg-country="MY" tvg-language="EN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/312_144.png" tvg-url="" group-title="RADIO",TRAXX FM (872)
+https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019-96000.m3u8
+#EXTINF:-1 tvg-id="873" tvg-name="MINNAL FM" tvg-country="MY" tvg-language="HINDI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/311_144.png" tvg-url="" group-title="RADIO",MINNAL FM (873)
+https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021-96000.m3u8
+#EXTINF:-1 tvg-id="874" tvg-name="AI FM" tvg-country="MY" tvg-language="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/303_144.png" tvg-url="" group-title="RADIO",AI FM (874)
+https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/chunklist.m3u8
+#EXTINF:-1 tvg-id="875" tvg-name="ASYIK FM" tvg-country="MY" tvg-language="MALAY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/312_144.png" tvg-url="" group-title="RADIO",ASYIK FM (875)
+https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022-96000.m3u8
+#EXTINF:-1 tvg-id="876" tvg-name="ZAYAN FM" tvg-country="MY" tvg-language="MALAY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png" tvg-url="" group-title="RADIO",ZAYAN FM (876)
+https://astro3.rastream.com/astro-zayan.web.hls/playlist.m3u8?listeningSessionID=5fec0256fb09261c_23000132_nsWUXQVS_MTAzLjIxLjgxLjM6ODA!_000000IpycG&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Azayan&playerid=Listen%20to%20ZAYAN%20on%20SYOK_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MzIzMDI3MzEsImV4cCI6MTYzMjM4OTEzMX0.v--e32WKmN7gNnkJtznTS2SSMYirtUf96oYTd6vWDos&lan=%5B%22ms%22%5D&setLanguage=true
+#EXTINF:-1 tvg-id="877" tvg-name="GO XUAN FM" tvg-country="MY" tvg-language="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png" tvg-url="" group-title="RADIO",GO XUAN FM (877)
+https://astro3.rastream.com/astro-goxuan.web.hls/playlist.m3u8?listeningSessionID=5fec0256fb09261c_23000432_vWbUUYQB_MTAzLjIxLjgxLjM6ODA!_000000IpzTg&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Agoxuan&playerid=Listen%20to%20GOXUAN%20on%20SYOK_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MzIzMDMwMTksImV4cCI6MTYzMjM4OTQxOX0.2EhnZjCMfjVtihLusCykJaKQC9fU0uwRXT4fJLDVqDs&lan=%5B%22zh%22%5D&setLanguage=true
+#EXTINF:-1 tvg-id="878" tvg-name="ASTRO ARENA FM" tvg-country="MY" tvg-language="MALAY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/304_144.png" tvg-url="" group-title="RADIO",ASTRO ARENA FM (878)
+https://astro1.rastream.com/amp-arena
+#EXTINF:-1 tvg-id="879" tvg-name="IKIM FM" tvg-country="MY" tvg-language="MALAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Radio_IKIM.png" tvg-url="" group-title="RADIO",IKIM FM
+https://hls.rastream.com/ikim-ikimfm.web.hls/playlist.m3u8?listeningSessionID=5f9ebd11f7c31651_28064680_yks1TRJD_MTAzLjIxLjgxLjk6ODA!_000000VgvMl&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Btags%3Aikimfm%3Bstationid%3Aikimfm-ikimfm&playerid=IKIM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MzIzMDMyODMsImV4cCI6MTYzMjM4OTY4M30.Nvnbi4bjoUi4KL6W1FDfmO2X_bChWcMMTbjGHjZ5FHI&lan=%5B%22ms%22%5D&setLanguage=true
+#EXTINF:-1 tvg-id="880" tvg-name="ONE FM" tvg-country="MY" tvg-language="EN" tvg-logo="https://i0.wp.com/unifistreamyx.info/wp-content/uploads/2015/07/one-fm-628x353.gif" tvg-url="" group-title="RADIO",ONE FM
+https://mediaprima.rastream.com/mediaprima-onefm
+#EXTINF:-1 tvg-id="881" tvg-name="FLY FM" tvg-country="MY" tvg-language="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Logo_Fly_FM.svg.png/revision/latest?cb=20181203110854" tvg-url="" group-title="RADIO"FLY FM
+https://mediaprima.rastream.com/mediaprima-flyfm
 
 
 #EXTINF:-1 tvg-id="000" tvg-name="DESC"  group-title="NO OPEN",-----KOREANTV-----
