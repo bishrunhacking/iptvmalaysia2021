@@ -1,7 +1,10 @@
 # iptvmalaysia2021
 THANKS FOR VISIT MY CODE
 
-1) OPEN # IPTVMALAYSIAUPDATED.
+1) OPEN https://github.com/bishrunhacking/iptvmalaysia2021/blob/main/IPTVMALAYSIAUPDATED
+2) SELECT RAW
+3) COPY LINK 
+4) PASTE URL AT IPTV PLAYER
 
 
 CAUTION:
