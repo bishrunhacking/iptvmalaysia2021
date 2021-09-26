@@ -295,9 +295,9 @@ http://89.187.182.181:9090/SM_FHD_ENG_FOXLIFE/tracks-v1a1/index.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
 #EXTINF:-1 tvg-id="0502" tvg-name="Love Nature FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="ENTERTAINMENT",LOVE NATURE (UnifiTV502)
 http://portal.geniptv.com:8080/tomasiptv_new/tBdcKMF3NfbSfva7prR7/1108
-#EXTINF:-1 tvg-id="0473" tvg-name="Blue Ant Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="ENTERTAINMENT",Blue Ant Entertainment (UnifiTV473)
+#EXTINF:-1 tvg-id="0473" tvg-name="Rock Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="ENTERTAINMENT",Rock Entertainment (UnifiTV473)
 http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
-#EXTINF:-1 tvg-id="0474" tvg-name="Blue Ant Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="ENTERTAINMENT",Blue Ant Extreme (UnifiTV474)
+#EXTINF:-1 tvg-id="0474" tvg-name="Rock Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="ENTERTAINMENT",Rock Extreme (UnifiTV474)
 http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
 
 
@@ -309,7 +309,7 @@ http://45.126.83.51/uq2663/h/h22/01.m3u8
 #EXTINF:-1 tvg-id="801" tvg-name="Astro Arena" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" tvg-url="" group-title="ASTRO SPORTS",Astro Arena HD (801)
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" tvg-country="MY" tvg-language="en" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" tvg-url="" group-title="ASTRO SPORTS",Astro SuperSport HD (811)
-http://ux38.gcdn.co/UKS33/tracks-v1a1/mono.m3u8
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4989
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-country="MY" tvg-language="en" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" tvg-url="" group-title="ASTRO SPORTS",Astro SuperSport 2 HD (812)
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4990
 #EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-country="MY" tvg-language="en" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" tvg-url="" group-title="ASTRO SPORTS",Astro SuperSport 3 HD (813)
