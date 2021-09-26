@@ -231,8 +231,14 @@ www.goMYTVl.com
 
 #EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="ASTRO",Astro Ceria HD (611)
 http://50.7.17.176:61980/myplay/c_58024/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=165494238
-#EXTINF:-1 tvg-id="615" tvg-name="Cartoon Network FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png" group-title="ASTRO",Cartoon Network FHD (615)
+#EXTINF:-1 tvg-id="615" tvg-name="Cartoon Network FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png" group-title="ASTRO",Cartoon Network HD ASIA (615)
+http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
+#EXTINF:-1 tvg-id="615(2)" tvg-name="Cartoon Network FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png" group-title="ASTRO",Cartoon Network FHD USA
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1543
+
+
+http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
+
 #EXTINF:-1 tvg-id="616" tvg-name="Nickelodeon HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" group-title="ASTRO",Nickelodeon HD (616)
 http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-id="617" tvg-name="Nickelodeon Junior FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" group-title="ASTRO",Nickelodeon Junior FHD (617)
