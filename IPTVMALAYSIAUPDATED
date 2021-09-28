@@ -48,11 +48,10 @@ http://50.7.17.176:61980/myplay/c_58037/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&ex
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1 tvg-id="109" tvg-name="Naura HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" group-title="ASTRO",Naura HD (CH109)
 http://50.7.161.82:8277/streams/d/Naura/playlist.m3u8
-#EXTINF:-1 tvg-id="112" tvg-name="Astro Rania HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="ASTRO",Astro Rania HD (CH112)#
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065897
-https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
-#EXTINF:-1 tvg-id="113" tvg-name="Astro Aura HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="ASTRO",Astro Aura HD (CH113)#
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71145
+#EXTINF:-1 tvg-id="112" tvg-name="Astro Rania HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="ASTRO",Astro Rania HD (CH112)
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/5011
+#EXTINF:-1 tvg-id="113" tvg-name="Astro Aura HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="ASTRO",Astro Aura HD (CH113)
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/5010
 #EXTINF:-1 tvg-id="125" tvg-name="Astro Prima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="ASTRO",Astro Prima (CH125)
 http://50.7.161.82:8277/streams/d/prima_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="Astro Oasis" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="ASTRO",Astro Oasis (CH126)
@@ -72,24 +71,28 @@ https://agsplayback01.astro.com.my/CH3/master_GOSHOP3_04.m3u8
 #EXTINF:-1 tvg-id="000" tvg-name="DESC"  group-title="NO OPEN",-----INDIAN-----
 www.goMYTVl.com
 
-#EXTINF:-1 tvg-id="116" tvg-name="Colors Hindi HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png" group-title="ASTRO",Colors Hindi HD (CH116)#
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745742
+#EXTINF:-1 tvg-id="116" tvg-name="Colors Hindi HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png" group-title="ASTRO",Colors Hindi HD (CH116)
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/5019
 #EXTINF:-1 tvg-id="201" tvg-name="Astro Vaanavil HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png" group-title="ASTRO",Astro Vaanavil HD (CH201)
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
-#EXTINF:-1 tvg-id="202" tvg-name="Astro Vinmeen HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png" group-title="ASTRO",Astro Vinmeen (CH202)#
+#EXTINF:-1 tvg-id="202" tvg-name="Astro Vinmeen HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png" group-title="ASTRO",Astro Vinmeen (CH202)
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4995
-#EXTINF:-1 tvg-id="204" tvg-name="Makkal TV" tvg-logo="https://i.imgur.com/Sv4bLGX.png" group-title="ASTRO",Makkal TV (CH204)#
-http://14.199.164.20:4001/play/a0l1/index.m3u8
-#EXTINF:-1 tvg-id="211" tvg-name="SUN TV HD" tvg-logo="https://www.nicepng.com/png/detail/2-22701_sun-tv-sun-tv-logo-png.png" group-title="ASTRO",SUN TV HD (CH211)#
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745667
-#EXTINF:-1 tvg-id="213" tvg-name="Chutti TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/51_144.png" group-title="ASTRO",Chutti TV (CH213)##
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71030
-#EXTINF:-1 tvg-id="221" tvg-name="Star Vijay HD" tvg-logo="https://img2.pngio.com/stars-cartoon-png-download-512512-free-transparent-star-vijay-star-vijay-png-900_520.jpg" group-title="ASTRO",Star Vijay HD (CH221)##
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745665
+#EXTINF:-1 tvg-id="204" tvg-name="Makkal TV" tvg-logo="https://i.imgur.com/Sv4bLGX.png" group-title="ASTRO",Makkal TV (CH204)
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/6478
+#EXTINF:-1 tvg-id="211" tvg-name="SUN TV HD" tvg-logo="https://www.nicepng.com/png/detail/2-22701_sun-tv-sun-tv-logo-png.png" group-title="ASTRO",SUN TV HD (CH211)
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8315
+#EXTINF:-1 tvg-id="213" tvg-name="Chutti TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/51_144.png" group-title="ASTRO",Chutti TV (CH213)
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/6467
+#EXTINF:-1 tvg-id="214" tvg-name="Adithya" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/67_144.png" group-title="ASTRO",Adithya (CH214)
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/6489
+#EXTINF:-1 tvg-id="221" tvg-name="Star Vijay HD" tvg-logo="https://img2.pngio.com/stars-cartoon-png-download-512512-free-transparent-star-vijay-star-vijay-png-900_520.jpg" group-title="ASTRO",Star Vijay HD (CH221)
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8340
 #EXTINF:-1 tvg-id="222" tvg-name="Colors Tamil HD" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160723588691kg.png" group-title="ASTRO",Colors tamil HD (CH222)##
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745666
-#EXTINF:-1 tvg-id="223" tvg-name="Zee Tamil HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="ASTRO",Zee Tamil HD (CH223)##
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71032
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/10708
+#EXTINF:-1 tvg-id="223" tvg-name="Zee Tamil HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="ASTRO",Zee Tamil HD (CH223)
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8460
+#EXTINF:-1 tvg-id="241" tvg-name="ABO Movies Thangathirai HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png" group-title="ASTRO", ABO Movies Thangathirai HD (CH241)
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/10461
 #EXTINF:-1 tvg-id="251" tvg-name="BollyOne HD" tvg-logo="https://i.ibb.co/F0ftsHB/bollyone.png" group-title="ASTRO",BollyOne HD (CH251)
 http://50.7.161.82:8277/streams/d/bollyone_pye/playlist.m3u8
 
@@ -113,8 +116,21 @@ http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 http://210.210.155.35/session/5b228b10-d3ef-11ea-be11-a39dabd864dd/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1 tvg-id="310" tvg-name="TVB Jade HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="ASTRO",TVB Jade HD (CH310)
 http://198.16.106.61:8277/streams/d/Wlt/playlist.m3u8
-#EXTINF:-1 tvg-id="311" tvg-name="Astro AOD HD 311" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png" group-title="ASTRO",Astro AOD HD (CH311)
-http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8 
+#EXTINF:-1 tvg-id="311" tvg-name="Astro AOD 311" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png" group-title="ASTRO",Astro AOD HD (CH311)#
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/5004
+#EXTINF:-1 tvg-id="352" tvg-name="Astro AOD 352" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png" group-title="ASTRO",Astro AOD HD (CH352)#
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/5005
+#EXTINF:-1 tvg-id="353" tvg-name="Astro AOD 353" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png" group-title="ASTRO",Astro AOD HD (CH353)#
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/5006
+#EXTINF:-1 tvg-id="354" tvg-name="Astro AOD 354" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png" group-title="ASTRO",Astro AOD HD (CH354)#
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/5007
+#EXTINF:-1 tvg-id="355" tvg-name="Astro AOD 355" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png" group-title="ASTRO",Astro AOD HD (CH355)#
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/5008
+
+
+
+#EXTINF:-1 tvg-id="333" tvg-name="Astro Hua Hee Dai HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/162_144.png" group-title="ASTRO",Astro Hua Hee Dai HD (CH333)
+http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="000" tvg-name="DESC"  group-title="NO OPEN",-----ENTERNATIONAL-----
@@ -122,7 +138,30 @@ www.goMYTVl.com
 
 #EXTINF:-1 tvg-id="316" tvg-name="CTI Asia HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png" group-title="ENTERNATIONAL",CTI Asia HD (CH316)##
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745678
-#EXTINF:-1 tvg-id="392" tvg-name="KBS World HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png" group-title="ENTERNATIONAL",KBS World HD (CH392)
+#EXTINF:-1 tvg-id="317" tvg-name="TVB Entertainment News HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/427_144.png" group-title="ENTERNATIONAL",TVB Entertainment News HD (CH317)
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/10842
+#EXTINF:-1 tvg-id="319" tvg-name="TVB Xing He HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="ENTERNATIONAL",TVB Xing He HD (CH319)
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/6277
+#EXTINF:-1 tvg-id="320" tvg-name="TVBS Asia HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/384_144.png" group-title="ENTERNATIONAL",TVBS Asia HD (CH320)
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8268
+#EXTINF:-1 tvg-id="321" tvg-name="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/414_144.png" group-title="ENTERNATIONAL",CCM (CH321)##
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/6466
+#EXTINF:-1 tvg-id="323" tvg-name="TVBS News HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/384_144.png" group-title="ENTERNATIONAL",TVBS News HD (CH323)
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/1035
+#EXTINF:-1 tvg-id="325" tvg-name="Phoenix Chinese Channel HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/382_144.png" group-title="ENTERNATIONAL",Phoenix Chinese Channel HD (CH325)
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/10841
+#EXTINF:-1 tvg-id="326" tvg-name="Phoenix Info News HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/43_144.png" group-title="ENTERNATIONAL",Phoenix Info News HD (CH326)
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8269
+#EXTINF:-1 tvg-id="335" tvg-name="CCTV4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/385_144.png" group-title="ENTERNATIONAL",CCTV4 HD (CH335)
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/149
+#EXTINF:-1 tvg-id="352" tvg-name="Astro AOD 352" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png" group-title="ENTERNATIONAL",Phoenix Info News HD (CH325)
+
+#EXTINF:-1 tvg-id="325" tvg-name="Phoenix Info News HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/382_144.png" group-title="ENTERNATIONAL",Phoenix Info News HD (CH325)
+
+
+
+
+#EXTINF:-1 tvg-id="392" tvg-name="KBS World HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png" group-title="ENTERNATIONAL",KBS World HD [ENG/VIET SUB](CH392)
 https://live-vthcm.vieon.vn/htv_drm/live/kbs_world/TV_HD/kbs_world_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="393" tvg-name="ONE HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="ENTERNATIONAL",ONE HD [INDO SUB] (CH393)
 http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143/01.m3u8
