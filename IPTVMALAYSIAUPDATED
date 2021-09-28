@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg="https://pcccw.github.io/Ark/EPG/guide_71.xml,https://iptv-org.github.io/epg/guides/astro.com.my.guide.xml,https://iptv-org.github.io/epg/guides/vidio.com.guide.xml,https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml,https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml"
+
 #EXTINF:-1 tvg-id="000" tvg-name="INTRO"  group-title="NO OPEN",-----CREATE BY BISHRUN HACKING-----
 www.googel.com
 
@@ -294,8 +295,11 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
 http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="718" tvg-name="MTV Asia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/420_144.png" group-title="ENTERTAINMENT",MTV Asia (718)
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745775
-#EXTINF:-1 tvg-id="719" tvg-name="Animax HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/419_144.png" group-title="ENTERTAINMENT",Animax HD [MY SUB] (719)
+#EXTINF:-1 tvg-id="719" tvg-name="Animax HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/419_144.png" group-title="ENTERTAINMENT",Animax HD [MALAY SUB] (719)
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/129
+#EXTINF:-1 tvg-id="719(2)" tvg-name="Animax FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/419_144.png" group-title="ENTERTAINMENT",Animax FHD [ENG SUB] (719)
+https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
+
 #EXTINF:-1 tvg-id="721" tvg-name="Fox Life HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/137_144.png" group-title="ENTERTAINMENT",Fox Life HD (721)
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/33
 #EXTINF:-1 tvg-id="722" tvg-name="Fox FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/180_144.png" group-title="ENTERTAINMENT",Fox FHD [RUSSIAN DUB](722)
@@ -317,6 +321,10 @@ www.goMYTVl.com
 http://45.126.83.51/uq2663/h/h22/01.m3u8
 #EXTINF:-1 tvg-id="801" tvg-name="Astro Arena" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" tvg-url="" group-title="ASTRO SPORTS",Astro Arena HD (801)
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="801(2)" tvg-name="Astro Arena" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" tvg-url="" group-title="ASTRO SPORTS",Astro Arena HD [BACKUP] (801)
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4985
+
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" tvg-country="MY" tvg-language="en" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" tvg-url="" group-title="ASTRO SPORTS",Astro SuperSport HD (811)
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4989
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-country="MY" tvg-language="en" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" tvg-url="" group-title="ASTRO SPORTS",Astro SuperSport 2 HD (812)
