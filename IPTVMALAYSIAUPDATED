@@ -11,7 +11,7 @@ http://50.7.17.176:61980/myplay/c_58001/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&ex
 #EXTINF:-1 tvg-id="102" tvg-name="TV2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="MYTV",TV2 HD (CH102)
 http://50.7.17.176:61980/myplay/c_58002/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MYTV",TV3 (CH103)
-http://50.7.17.176:61980/myplay/c_58003/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 #EXTINF:-1 tvg-id="114" tvg-name="Al-Hijrah" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png" group-title="MYTV",Al-Hijrah (CH114)
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1 tvg-id="146" tvg-name="TV Okey" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" group-title="MYTV",TV Okey (CH146)
@@ -118,6 +118,8 @@ http://210.210.155.35/session/5b228b10-d3ef-11ea-be11-a39dabd864dd/qwr9ew/s/s33/
 http://198.16.106.61:8277/streams/d/Wlt/playlist.m3u8
 #EXTINF:-1 tvg-id="311" tvg-name="Astro AOD 311" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png" group-title="ASTRO",Astro AOD HD (CH311)#
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/5004
+#EXTINF:-1 tvg-id="333" tvg-name="Astro Hua Hee Dai HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/162_144.png" group-title="ASTRO",Astro Hua Hee Dai HD (CH333)
+http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 #EXTINF:-1 tvg-id="352" tvg-name="Astro AOD 352" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png" group-title="ASTRO",Astro AOD HD (CH352)#
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/5005
 #EXTINF:-1 tvg-id="353" tvg-name="Astro AOD 353" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png" group-title="ASTRO",Astro AOD HD (CH353)#
@@ -126,11 +128,6 @@ http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/5006
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/5007
 #EXTINF:-1 tvg-id="355" tvg-name="Astro AOD 355" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png" group-title="ASTRO",Astro AOD HD (CH355)#
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/5008
-
-
-
-#EXTINF:-1 tvg-id="333" tvg-name="Astro Hua Hee Dai HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/162_144.png" group-title="ASTRO",Astro Hua Hee Dai HD (CH333)
-http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="000" tvg-name="DESC"  group-title="NO OPEN",-----ENTERNATIONAL-----
@@ -191,14 +188,20 @@ http://93.190.139.35:8278/streams/d/Hitsmovie/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 tvg-id="411" tvg-name="HBO HD" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIES",HBO HD [MY SUB] (411)
 https://gratismkctv.net/film/hbo.m3u8 
+#EXTINF:-1 tvg-id="411(2)" tvg-name="HBO HD" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIES",HBO HD [MULTI SUB] [BACKUP] (411) ##
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 tvg-id="412" tvg-name="CINEMAX HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="MOVIES",CINEMAX HD [ID SUB] (CH412)
 https://dl.dropboxusercontent.com/s/1nqhsz02w72ojjl/MAX.m3u8
 #EXTINF:-1 tvg-id="414" tvg-name="HBO Family" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="MOVIES",HBO Family [EN SUB] (CH414)
 https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
+#EXTINF:-1 tvg-id="414(2)" tvg-name="HBO Family" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="MOVIES",HBO Family [MULTI SUB] [BACKUP] (CH414)##
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="415" tvg-name="HBO Hits" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="MOVIES",HBO Hits [EN SUB] (CH415)
 https://raw.githubusercontent.com/angahjee1994/tv/master/hbohit.m3u8
-#EXTINF:-1 tvg-id="416" tvg-name="tvN Movies HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png" group-title="MOVIES",tvN Movies HD (CH416)##
-http://foctv.xyz:25510/Amir5641/YY5641/136
+#EXTINF:-1 tvg-id="415(2)" tvg-name="HBO Hits" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="MOVIES",HBO Hits [MULTI SUB] [BACKUP] (CH415)##
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+#EXTINF:-1 tvg-id="416" tvg-name="tvN Movies HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png" group-title="MOVIES",tvN Movies HD (CH416)
+http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 #EXTINF:-1 tvg-id="414" tvg-name="HBO Family" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="MOVIES",HBO Family [EN SUB] (CH414)
 https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
 #EXTINF:-1 tvg-id="414(2)" tvg-name="HBO Family" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="MOVIES",HBO Family (CH414)
@@ -335,18 +338,17 @@ http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="718" tvg-name="MTV Asia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/420_144.png" group-title="ENTERTAINMENT",MTV Asia (718)
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745775
 #EXTINF:-1 tvg-id="719" tvg-name="Animax HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/419_144.png" group-title="ENTERTAINMENT",Animax HD [MALAY SUB] (719)
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/129
+http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-id="719(2)" tvg-name="Animax FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/419_144.png" group-title="ENTERTAINMENT",Animax FHD [ENG SUB] (719)
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
-
 #EXTINF:-1 tvg-id="721" tvg-name="Fox Life HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/137_144.png" group-title="ENTERTAINMENT",Fox Life HD (721)
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/33
 #EXTINF:-1 tvg-id="722" tvg-name="Fox FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/180_144.png" group-title="ENTERTAINMENT",Fox FHD [RUSSIAN DUB](722)
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
 #EXTINF:-1 tvg-id="0701" tvg-name="Fox Crime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/5/50/Fox-Crime.png" group-title="ENTERTAINMENT",Fox Crime HD
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/35
-#EXTINF:-1 tvg-id="0502" tvg-name="Love Nature FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="ENTERTAINMENT",LOVE NATURE (UnifiTV502)
-http://portal.geniptv.com:8080/tomasiptv_new/tBdcKMF3NfbSfva7prR7/1108
+#EXTINF:-1 tvg-id="0502" tvg-name="Love Nature HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="ENTERTAINMENT",LOVE NATURE (UnifiTV502)
+http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="0473" tvg-name="Rock Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="ENTERTAINMENT",Rock Entertainment (UnifiTV473)
 http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
 #EXTINF:-1 tvg-id="0474" tvg-name="Rock Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rock_Extreme.png/1200px-Rock_Extreme.png" group-title="ENTERTAINMENT",Rock Ex (UnifiTV474)
