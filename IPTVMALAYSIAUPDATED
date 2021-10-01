@@ -206,11 +206,11 @@ http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
 #EXTINF:-1 tvg-id="414(2)" tvg-name="HBO Family" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="MOVIES",HBO Family (CH414)
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/5
-#EXTINF:-1 tvg-id="417" tvg-name="FOX Movies HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/151_144.png" group-title="MOVIES",FOX Movies HD [MALAY HARDSUB] (CH417)
+#EXTINF:-1 tvg-id="417" tvg-name="FOX Movies HD [SHUTDOWN 1 OCT 2021]" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/151_144.png" group-title="MOVIES",FOX Movies HD [SHUTDOWN 1 OCT 2021] (CH417)
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/50
-#EXTINF:-1 tvg-id="418" tvg-name="FOX family Movies HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/170_144.png" group-title="MOVIES",FOX Family Movies FHD (CH418)
+#EXTINF:-1 tvg-id="418" tvg-name="FOX family Movies HD [SHUTDOWN 1 OCT 2021]" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/170_144.png" group-title="MOVIES",FOX Family Movies FHD [SHUTDOWN 1 OCT 2021] (CH418)
 http://my.odtv.uk:80/live/1159189903/4938860969/75.m3u8
-#EXTINF:-1 tvg-id="419" tvg-name="Fox Action Movies HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/184_144.png" group-title="MOVIES",FOX Action Movies [MALAY SUB] (CH419)
+#EXTINF:-1 tvg-id="419" tvg-name="Fox Action Movies HD[SHUTDOWN 1 OCT 2021]" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/184_144.png" group-title="MOVIES",FOX Action Movies [SHUTDOWN 1 OCT 2021] (CH419)
 http://my.odtv.uk:80/live/1159189903/4938860969/76.m3u8
 #EXTINF:-1 tvg-id="NONASTRO1" tvg-name="&FLIX HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/%26flix.svg/revision/latest/scale-to-width-down/78?cb=20200430075815" group-title="MOVIES",&FLIX HD [ENG SUB] (NONASTRO)
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
@@ -341,11 +341,11 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745775
 http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-id="719(2)" tvg-name="Animax FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/419_144.png" group-title="ENTERTAINMENT",Animax FHD [ENG SUB] (719)
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
-#EXTINF:-1 tvg-id="721" tvg-name="Fox Life HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/137_144.png" group-title="ENTERTAINMENT",Fox Life HD (721)
+#EXTINF:-1 tvg-id="721" tvg-name="Fox Life HD [SHUTDOWN 1 OCT 2021]" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/137_144.png" group-title="ENTERTAINMENT",Fox Life HD [SHUTDOWN 1 OCT 2021] (721)
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/33
-#EXTINF:-1 tvg-id="722" tvg-name="Fox FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/180_144.png" group-title="ENTERTAINMENT",Fox FHD [RUSSIAN DUB](722)
+#EXTINF:-1 tvg-id="722" tvg-name="Fox FHD [SHUTDOWN 1 OCT 2021]" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/180_144.png" group-title="ENTERTAINMENT",Fox FHD [SHUTDOWN 1 OCT 2021] (722)
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
-#EXTINF:-1 tvg-id="0701" tvg-name="Fox Crime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/5/50/Fox-Crime.png" group-title="ENTERTAINMENT",Fox Crime HD
+#EXTINF:-1 tvg-id="0701" tvg-name="Fox Crime HD [SHUTDOWN 1 OCT 2021]" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/5/50/Fox-Crime.png" group-title="ENTERTAINMENT",Fox Crime HD [SHUTDOWN 1 OCT 2021]
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/35
 #EXTINF:-1 tvg-id="0502" tvg-name="Love Nature HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="ENTERTAINMENT",LOVE NATURE (UnifiTV502)
 http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
@@ -364,8 +364,6 @@ http://45.126.83.51/uq2663/h/h22/01.m3u8
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="801(2)" tvg-name="Astro Arena" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" tvg-url="" group-title="ASTRO SPORTS",Astro Arena HD [BACKUP] (801)
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4985
-
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" tvg-country="MY" tvg-language="en" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" tvg-url="" group-title="ASTRO SPORTS",Astro SuperSport HD (811)
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4989
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-country="MY" tvg-language="en" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" tvg-url="" group-title="ASTRO SPORTS",Astro SuperSport 2 HD (812)
@@ -374,11 +372,11 @@ http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4990
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4991
 #EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-country="MY" tvg-language="en" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" tvg-url="" group-title="ASTRO SPORTS",Astro SuperSport 4 HD (814)
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4992
-#EXTINF:-1 tvg-id="815" tvg-name="FOX Sport HD" tvg-country="USA" tvg-language="en" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/141_144.png" tvg-url="" group-title="ASTRO SPORTS",FOX Sport HD (815)
+#EXTINF:-1 tvg-id="815" tvg-name="FOX Sport HD [SHUTDOWN 1 OCT 2021]" tvg-country="USA" tvg-language="en" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/141_144.png" tvg-url="" group-title="ASTRO SPORTS",FOX Sport HD [SHUTDOWN 1 OCT 2021] (815)
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/6274
-#EXTINF:-1 tvg-id="816" tvg-name="FOX Sport 2 HD" tvg-country="USA" tvg-language="en" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/290_144.png" tvg-url="" group-title="ASTRO SPORTS",FOX Sport 2 HD (816)
+#EXTINF:-1 tvg-id="816" tvg-name="FOX Sport 2 HD [SHUTDOWN 1 OCT 2021]" tvg-country="USA" tvg-language="en" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/290_144.png" tvg-url="" group-title="ASTRO SPORTS",FOX Sport 2 HD [SHUTDOWN 1 OCT 2021] (816)
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/6275
-#EXTINF:-1 tvg-id="817" tvg-name="FOX Sport 3 HD" tvg-country="USA" tvg-language="en" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/291_144.png" tvg-url="" group-title="ASTRO SPORTS",FOX Sport 3 HD (817)
+#EXTINF:-1 tvg-id="817" tvg-name="FOX Sport 3 HD [SHUTDOWN 1 OCT 2021]" tvg-country="USA" tvg-language="en" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/291_144.png" tvg-url="" group-title="ASTRO SPORTS",FOX Sport 3 HD [SHUTDOWN 1 OCT 2021] (817)
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4915
 #EXTINF:-1 tvg-id="818" tvg-name="beIN Sport HD" tvg-country="us" tvg-language="en" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" tvg-url="" group-title="ASTRO SPORTS",beIN Sport HD (818)
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/5020
