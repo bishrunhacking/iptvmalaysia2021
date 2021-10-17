@@ -6,35 +6,35 @@ www.googel.com
 #EXTINF:-1 tvg-id="000" tvg-name="DESC"  group-title="NO OPEN",-----MYTV-----
 www.goMYTVl.com
 
-#EXTINF:-1 tvg-id="101" tvg-name="TV1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="MYTV",TV1 HD (CH101)
+#EXTINF:-1 tvg-id="101" tvg-name="TV1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="MYTV",TV1 FHD [1080p] (CH101)
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
-#EXTINF:-1 tvg-id="102" tvg-name="TV2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="MYTV",TV2 HD (CH102)
+#EXTINF:-1 tvg-id="102" tvg-name="TV2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="MYTV",TV2 FHD [1080p] (CH102)
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
-#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MYTV",TV3 (CH103)
+#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MYTV",TV3 HD [720P] (CH103)
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-#EXTINF:-1 tvg-id="114" tvg-name="Al-Hijrah" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png" group-title="MYTV",Al-Hijrah (CH114)
+#EXTINF:-1 tvg-id="114" tvg-name="Al-Hijrah" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png" group-title="MYTV",Al-Hijrah [480p] (CH114)
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
-#EXTINF:-1 tvg-id="146" tvg-name="TV Okey" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" group-title="MYTV",TV Okey (CH146)
+#EXTINF:-1 tvg-id="146" tvg-name="TV Okey" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" group-title="MYTV",TV Okey [1080p] (CH146)
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
-#EXTINF:-1 tvg-id="1295" tvg-name="TV6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest?cb=20210327202814" group-title="TV",TV6
+#EXTINF:-1 tvg-id="1295" tvg-name="TV6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest?cb=20210327202814" group-title="TV",TV6 [1080p]
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
-#EXTINF:-1 tvg-id="147" tvg-name="NTV7 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="MYTV",NTV7 HD (CH147)
+#EXTINF:-1 tvg-id="147" tvg-name="NTV7 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="MYTV",NTV7 HD [720p] (CH147)
 http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png" group-title="MYTV",8TV (CH148)
+#EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png" group-title="MYTV",8TV [720p] (CH148)
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TV9_2021.png/200px-TV9_2021.png" group-title="MYTV",TV9 (CH149)
+#EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TV9_2021.png/200px-TV9_2021.png" group-title="MYTV",TV9 [720p] (CH149)
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-#EXTINF:-1 tvg-id="001" tvg-name="BES RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="MYTV",BES RTM (MYTV)##
+#EXTINF:-1 tvg-id="001" tvg-name="BES RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="MYTV",BES RTM [1080p](MYTV)
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
-#EXTINF:-1 tvg-id="002" tvg-name="SUKAN RTM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player%20Logo%20-%20SUKAN%20RTM_NEW.jpg" group-title="MYTV",SUKAN RTM (MYTV)
+#EXTINF:-1 tvg-id="002" tvg-name="SUKAN RTM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player%20Logo%20-%20SUKAN%20RTM_NEW.jpg" group-title="MYTV",SUKAN RTM [1080p] (MYTV)
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
-#EXTINF:-1 tvg-id="122" tvg-name="TVS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="ASTRO,MYTV",TVS (CH122)
+#EXTINF:-1 tvg-id="122" tvg-name="TVS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="ASTRO,MYTV",TVS [576p](CH122)
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
-#EXTINF:-1 tvg-id="123" tvg-name="Awesome TV" tvg-logo="https://i.imgur.com/zN35gsY.png" group-title="MYTV",awesome TV (CH123)
+#EXTINF:-1 tvg-id="123" tvg-name="Awesome TV" tvg-logo="https://i.imgur.com/zN35gsY.png" group-title="MYTV",awesome TV [OFFLINW] (CH123)
 http://50.7.17.176:61980/myplay/c_58014/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-#EXTINF:-1 tvg-id="1293" tvg-name="Ikim TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Radio_IKIM.png" group-title="TV",Ikim TV
+#EXTINF:-1 tvg-id="1293" tvg-name="Ikim TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Radio_IKIM.png" group-title="TV",Ikim TV [OFFLINE]
 https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_360p/chunks.m3u8?nimblesessionid=26420508
-#EXTINF:-1 tvg-id="1294" tvg-name="RTM Parlimen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png" group-title="TV",RTM Parlimen
+#EXTINF:-1 tvg-id="1294" tvg-name="RTM Parlimen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png" group-title="TV",RTM Parlimen [1080p]
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
 
@@ -43,25 +43,25 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 #EXTINF:-1 tvg-id="000" tvg-name="DESC"  group-title="NO OPEN",-----ASTRO-----
 www.goMYTVl.com
 
-#EXTINF:-1 tvg-id="104" tvg-name="Astro Ria HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a" group-title="ASTRO",Astro Ria HD (CH104)
+#EXTINF:-1 tvg-id="104" tvg-name="Astro Ria HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="ASTRO",Astro Ria HD [720p] (CH104)
 http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="105" tvg-name="Astro Prima HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="ASTRO",Astro Prima HD (CH105)
+#EXTINF:-1 tvg-id="105" tvg-name="Astro Prima HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="ASTRO",Astro Prima HD [720p] (CH105)
 http://50.7.161.82:8277/streams/d/prima_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="Astro Oasis HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="ASTRO",Astro Oasis HD (CH106)
+#EXTINF:-1 tvg-id="106" tvg-name="Astro Oasis HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="ASTRO",Astro Oasis HD [720p] (CH106)
 http://50.7.161.82:8277/streams/d/Oasis/playlist.m3u8
-#EXTINF:-1 tvg-id="107" tvg-name="Astro Warna HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="ASTRO",Astro Warna HD (CH107)
-http://50.7.17.176:61980/myplay/c_58037/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-#EXTINF:-1 tvg-id="108" tvg-name="Astro Citra HD" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" group-title="ASTRO",ASTRO Citra HD (CH108)
+#EXTINF:-1 tvg-id="107" tvg-name="Astro Warna HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="ASTRO",Astro Warna HD [720p] (CH107)
+http://95.216.221.22:5080/WebRTCApp/streams/warna.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+#EXTINF:-1 tvg-id="108" tvg-name="Astro Citra HD" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" group-title="ASTRO",ASTRO Citra HD [720p] (CH108)
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1 tvg-id="109" tvg-name="Naura HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" group-title="ASTRO",Naura HD (CH109)
+#EXTINF:-1 tvg-id="109" tvg-name="Naura HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" group-title="ASTRO",Naura HD [720p] (CH109)
 http://50.7.161.82:8277/streams/d/Naura/playlist.m3u8
-#EXTINF:-1 tvg-id="112" tvg-name="Astro Rania HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="ASTRO",Astro Rania HD (CH112)#
+#EXTINF:-1 tvg-id="112" tvg-name="Astro Rania HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="ASTRO",Astro Rania HD [OFFLINE](CH112)#
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71144
-#EXTINF:-1 tvg-id="113" tvg-name="Astro Aura HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="ASTRO",Astro Aura HD (CH113)#
+#EXTINF:-1 tvg-id="113" tvg-name="Astro Aura HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="ASTRO",Astro Aura HD [OFFLINE] (CH113)#
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71145
-#EXTINF:-1 tvg-id="125" tvg-name="Astro Prima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="ASTRO",Astro Prima (CH125)
+#EXTINF:-1 tvg-id="125" tvg-name="Astro Prima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="ASTRO",Astro Prima [720p] (CH125)
 http://50.7.161.82:8277/streams/d/prima_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="Astro Oasis" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="ASTRO",Astro Oasis (CH126)
+#EXTINF:-1 tvg-id="126" tvg-name="Astro Oasis" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="ASTRO",Astro Oasis [720p] (CH126)
 http://50.7.161.82:8277/streams/d/Oasis/playlist.m3u8
 
 
@@ -159,46 +159,44 @@ http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8269
 #EXTINF:-1 tvg-id="335" tvg-name="CCTV4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/385_144.png" group-title="ENTERNATIONAL",CCTV4 HD (CH335)
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/149
 #EXTINF:-1 tvg-id="352" tvg-name="Astro AOD 352" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png" group-title="ENTERNATIONAL",Phoenix Info News HD (CH325)
-
 #EXTINF:-1 tvg-id="325" tvg-name="Phoenix Info News HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/382_144.png" group-title="ENTERNATIONAL",Phoenix Info News HD (CH325)
 
 
 
 
-#EXTINF:-1 tvg-id="392" tvg-name="KBS World HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png" group-title="ENTERNATIONAL",KBS World HD [ENG/VIET SUB](CH392)
+#EXTINF:-1 tvg-id="392" tvg-name="KBS World HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png" group-title="ENTERNATIONAL",KBS World FHD [1080p] [ENG/VIET SUB](CH392)
 https://live-vthcm.vieon.vn/htv_drm/live/kbs_world/TV_HD/kbs_world_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="393" tvg-name="ONE HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="ENTERNATIONAL",ONE HD [INDO SUB] (CH393)
+#EXTINF:-1 tvg-id="393" tvg-name="ONE SD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="ENTERNATIONAL",ONE SD [576p] [INDO SUB] (CH393)
 http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143/01.m3u8
-#EXTINF:-1 tvg-id="393(2)" tvg-name="ONE HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="ENTERNATIONAL",ONE HD [ENG SUB] (CH393)
+#EXTINF:-1 tvg-id="393(2)" tvg-name="ONE HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="ENTERNATIONAL",ONE HD [720p] [ENG SUB] (CH393)
 http://50.7.161.82:8277/streams/d/SetOne/playlist.m3u8
-#EXTINF:-1 tvg-id="393(3)" tvg-name="ONE HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="ENTERNATIONAL",ONE HD [INDO SUB BACKUP] (CH393)
+#EXTINF:-1 tvg-id="393(3)" tvg-name="ONE HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="ENTERNATIONAL",ONE SD [576p] [INDO SUB BACKUP] (CH393)
 http://210.210.155.35:80/uq2663/h/h143/01.m3u8?eroz84.wap.sh.m3u8
-#EXTINF:-1 tvg-id="394" tvg-name="Oh!K HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" group-title="ENTERNATIONAL",Oh!K HD (CH394)
+#EXTINF:-1 tvg-id="394" tvg-name="Oh!K HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" group-title="ENTERNATIONAL",Oh!K HD [720p] (CH394)
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-#EXTINF:-1 tvg-id="395" tvg-name="tvN HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="ENTERNATIONAL",tvN HD (CH395) 
+#EXTINF:-1 tvg-id="395" tvg-name="tvN HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="ENTERNATIONAL",tvN SD [576p] [INDO SUB] (CH395) 
 http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
-#EXTINF:-1 tvg-id="395(2)" tvg-name="tvN HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="ENTERNATIONAL",tvN HD BACKUP (CH395) 
+#EXTINF:-1 tvg-id="395(2)" tvg-name="tvN HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="ENTERNATIONAL",tvN SD BACKUP [576p] [INDO SUB] (CH395) 
 http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8
-#EXTINF:-1 tvg-id="398" tvg-name="NHK World HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/428_144.png" group-title="ENTERNATIONAL",NHK World HD (CH398)
+#EXTINF:-1 tvg-id="398" tvg-name="NHK World HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/428_144.png" group-title="ENTERNATIONAL",NHK World FHD [1080p] [ENG SUB] (CH398)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 tvg-id="ASTROGO1" tvg-name="Aniplus HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/267_144.png" group-title="ENTERNATIONAL",Aniplus HD [MALAY SUB](ASTROGO)
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/265
-
+#EXTINF:-1 tvg-id="ASTROGO1" tvg-name="Aniplus HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/267_144.png" group-title="ENTERNATIONAL",Aniplus HD [720p] [INDO SUB] (ASTROGO) ##
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/103
 
 
 #EXTINF:-1 tvg-id="000" tvg-name="DESC"  group-title="NO OPEN",-----MOVIES-----
 www.goMYTVl.com
 
-#EXTINF:-1 tvg-id="401" tvg-name="HITS Movies HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="MOVIES",HITS Movies HD (CH401)#
+#EXTINF:-1 tvg-id="401" tvg-name="HITS Movies HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="MOVIES",HITS Movies HD [720p] [INDO SUB] (CH401)#
 http://93.190.139.35:8278/streams/d/Hitsmovie/playlist.m3u8
-#EXTINF:-1 tvg-id="404" tvg-name="BOO HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="MOVIES",BOO HD [EN SUB] (CH404)
+#EXTINF:-1 tvg-id="404" tvg-name="BOO HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="MOVIES",BOO HD [720p] [EN SUB] (CH404)
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 tvg-id="411" tvg-name="HBO HD" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIES",HBO HD [MY SUB] (411)
-https://gratismkctv.net/film/hbo.m3u8 
-#EXTINF:-1 tvg-id="411(2)" tvg-name="HBO HD" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIES",HBO HD [MULTI SUB] [BACKUP] (411) ##
+#EXTINF:-1 tvg-id="411" tvg-name="HBO HD" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIES",HBO HD [720p] [MY SUB] (411)
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="411(2)" tvg-name="HBO HD" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIES",HBO HD [720p] [MULTI SUB] [BACKUP] (411) #
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:-1 tvg-id="412" tvg-name="CINEMAX HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="MOVIES",CINEMAX HD [ID SUB] (CH412)
-https://dl.dropboxusercontent.com/s/1nqhsz02w72ojjl/MAX.m3u8
+#EXTINF:-1 tvg-id="412" tvg-name="CINEMAX HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="MOVIES",CINEMAX HD [720p] [ID SUB] (CH412) ##
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/65
 #EXTINF:-1 tvg-id="414" tvg-name="HBO Family" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="MOVIES",HBO Family [EN SUB] (CH414)
 https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
 #EXTINF:-1 tvg-id="414(2)" tvg-name="HBO Family" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="MOVIES",HBO Family [MULTI SUB] [BACKUP] (CH414)##
@@ -260,8 +258,8 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="000" tvg-name="DESC"  group-title="NO OPEN",-----EDUCATION-----
 www.goMYTVl.com
 
-#EXTINF:-1 tvg-id="550" tvg-name="Nat Geo Wild HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png" group-title="EDUCATION",Nat Geo Wild (550)#
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/10220
+#EXTINF:-1 tvg-id="550" tvg-name="Nat Geo Wild HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png" group-title="EDUCATION",Nat Geo Wild [720p] [MALAY SUB/ NO SOUND] (550)#
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-id="551" tvg-name="National Geographic HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png" group-title="EDUCATION",National Geographic HD (551)
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8266
 #EXTINF:-1 tvg-id="552" tvg-name="Discovery Channel HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="EDUCATION",Discovery Channel HD [HINDI DUB] (552)
@@ -285,8 +283,8 @@ http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/5002
 #EXTINF:-1 tvg-id="000" tvg-name="DESC"  group-title="NO OPEN",-----CARTOONS-----
 www.goMYTVl.com
 
-#EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="CARTOONS",Astro Ceria HD (611)
-http://50.7.17.176:61980/myplay/c_58024/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=165494238
+#EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="CARTOONS",Astro Ceria HD [720p] (611)
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-id="612" tvg-name="Astro TA-DAA!" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/432_144.png" group-title="CARTOONS",Astro TA-DAA! (612)
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/11744
 #EXTINF:-1 tvg-id="615" tvg-name="Cartoon Network FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png" group-title="CARTOONS",Cartoon Network HD ASIA (615)
@@ -365,14 +363,16 @@ http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-id="000" tvg-name="DESC"  group-title="NO OPEN",-----SPORTS-----
 www.goMYTVl.com
 
-#EXTINF:-1 tvg-id="800" tvg-name="eGG Network HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/206_144.png" group-title="ASTRO",eGG Network HD (800)
+#EXTINF:-1 tvg-id="800" tvg-name="eGG Network HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/206_144.png" group-title="ASTRO",eGG Network HD [720P] (800)
 http://45.126.83.51/uq2663/h/h22/01.m3u8
-#EXTINF:-1 tvg-id="801" tvg-name="Astro Arena" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" tvg-url="" group-title="ASTRO SPORTS",Astro Arena HD (801)
+#EXTINF:-1 tvg-id="801" tvg-name="Astro Arena" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" tvg-url="" group-title="ASTRO SPORTS",Astro Arena HD [720P] (801)
+http://95.216.221.22:5080/WebRTCApp/streams/arena.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+#EXTINF:-1 tvg-id="801(2)" tvg-name="Astro Arena" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" tvg-url="" group-title="ASTRO SPORTS",Astro Arena HD BACKUP [720P] (801)
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="801(2)" tvg-name="Astro Arena" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" tvg-url="" group-title="ASTRO SPORTS",Astro Arena HD [BACKUP] (801)
-http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" tvg-country="MY" tvg-language="en" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" tvg-url="" group-title="ASTRO SPORTS",Astro SuperSport HD (811)
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4989
+#EXTINF:-1 tvg-id="802" tvg-name="Astro Arena 2" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" tvg-url="" group-title="ASTRO SPORTS",Astro Arena 2 HD [720p] (802)
+http://95.216.221.22:5080/WebRTCApp/streams/arena2.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+#EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" tvg-country="MY" tvg-language="en" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" tvg-url="" group-title="ASTRO SPORTS",Astro SuperSport HD (811)##
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/148
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-country="MY" tvg-language="en" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" tvg-url="" group-title="ASTRO SPORTS",Astro SuperSport 2 HD (812)
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4990
 #EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-country="MY" tvg-language="en" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" tvg-url="" group-title="ASTRO SPORTS",Astro SuperSport 3 HD (813)
@@ -400,7 +400,8 @@ http://50.7.161.82:8278/streams/d/astrocricket_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="0055" tvg-name="DUBAI SPORT FHD" tvg-country="UEA" tvg-language="AR" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport1.png" tvg-url="" group-title="SPORTS",DUBAI SPORTS FHD
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-#EXTINF:-1 tvg-id="0056" tvg-name="DUBAI SPORT 2 FHD" tvg-country="UEA" tvg-language="AR" tvg-logo="data:image/jpeg;base64,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" tvg-url="" group-title="SPORTS",DUBAI SPORTS 2 FHD
+#EXTINF:-1 tvg-id="0056" tvg-name="DUBAI SPORT 2 FHD" tvg-country="UEA" tvg-language="AR" tvg-logo="data:image/jpeg;base64,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" tvg-url="" group-title="SPORTS",DUBAI SPORTS 2 FHD
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 tvg-id="0057" tvg-name="DUBAI SPORT 3 FHD" tvg-country="UEA" tvg-language="AR" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport3.png" tvg-url="" group-title="SPORTS",DUBAI SPORTS 3 FHD
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
