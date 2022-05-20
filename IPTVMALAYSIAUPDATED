@@ -366,7 +366,7 @@ www.goMYTVl.com
 #EXTINF:-1 tvg-id="800" tvg-name="eGG Network HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/206_144.png" group-title="ASTRO",eGG Network HD [720P] (800)
 http://45.126.83.51/uq2663/h/h22/01.m3u8
 #EXTINF:-1 tvg-id="801" tvg-name="Astro Arena" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" tvg-url="" group-title="ASTRO SPORTS",Astro Arena HD [720P] (801)
-http://95.216.221.22:5080/WebRTCApp/streams/arena.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+http://axcestv.vip:8080/freeview/axcestv/592
 #EXTINF:-1 tvg-id="801(2)" tvg-name="Astro Arena" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" tvg-url="" group-title="ASTRO SPORTS",Astro Arena HD BACKUP [720P] (801)
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="802" tvg-name="Astro Arena 2" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" tvg-url="" group-title="ASTRO SPORTS",Astro Arena 2 HD [720p] (802)
