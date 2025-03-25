@@ -6,7 +6,7 @@ www.googel.com
 #EXTINF:-1 tvg-id="000" tvg-name="DESC"  group-title="NO OPEN",-----MYTV-----
 www.goMYTVl.com
 
-#EXTINF:-1 tvg-id="101" tvg-name="TV1 HD" tvg-logo="https://cdn.vectorstock.com/i/500p/03/45/kabah-islamic-hajj-logo-design-vector-44790345.jpg" group-title="MYTV",MAKKAH LIVE [1080p] (CH101)
-https://youtu.be/tko4c06NJeA
+#EXTINF:-1 tvg-id="101" tvg-name="TV1 HD" tvg-logo="https://cdn.vectorstock.com/i/500p/03/45/kabah-islamic-hajj-logo-design-vector-44790345.jpg" group-title="MYTV",SPORT RTM [1080p]
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 
